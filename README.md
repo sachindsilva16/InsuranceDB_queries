@@ -1,4 +1,4 @@
-# InsuranceDB_queries
+# `INSURANCE DATABASE_QUERIES`
 
 - 1.Update damage amount of an accident whose reportno and car's regno is specified  as 135 and 'KA99MC9999' respectively.
 - 2.Add a new accident to the database.
@@ -10,3 +10,18 @@
 - 8.Find the # of people who has purchased one or more 'innova' in 2021.
 - 9.Find the highest selling model in the year 2021.
 - 10.Find the data where total damage_amount of different accidents is maximum.
+
+
+# `BANK DATABASE-QUERIES`
+
+1.Find all the customers who have atleast two accounts at the main branch.
+
+2.Find all the customers who have an account at all the branches located in a specific city.
+
+3.Demonstrate how you delete all account tuples at every branch located in a specific city.
+
+4.Ensure that every account contains a required minimum amount of money at any time.--USE TRIGGER CONCEPTS
+
+5.List of customers taht have accounts in two or more branches of the bank at the same time.
+
+6.List of customers that have never had a loan.
